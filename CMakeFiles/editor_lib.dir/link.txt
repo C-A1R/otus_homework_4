@@ -1,0 +1,2 @@
+/usr/bin/ar qc libeditor_lib.a CMakeFiles/editor_lib.dir/src/version/versionLib.cpp.o
+/usr/bin/ranlib libeditor_lib.a

@@ -1,0 +1,5 @@
+<map id="ToggleButton" name="ToggleButton">
+<area shape="rect" id="node1" title="Залипающая кнопка" alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node2" href="$classPushButton.html" title="Нажимательнальная кнопка" alt="" coords="11,80,107,107"/>
+<area shape="rect" id="node3" href="$classIButton.html" title="Кнопка предполагаемой панели интрументов" alt="" coords="24,5,93,32"/>
+</map>

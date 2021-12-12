@@ -1,0 +1,15 @@
+OUTPUT_DIRECTORY       = /home/runner/work/otus_homework_4/otus_homework_4/
+INPUT                  = /home/runner/work/otus_homework_4/otus_homework_4/src/ 
+
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = editor
+PROJECT_NUMBER         = 0.0.2
+PROJECT_BRIEF          = Layout_of_a_graphic_vector_editor
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = docs
+GENERATE_LATEX         = NO
+
+HAVE_DOT               = YES
+EXTRACT_ALL            = YES
+RECURSIVE              = YES

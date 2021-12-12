@@ -1,0 +1,4 @@
+<map id="IShapeBtnCtrl" name="IShapeBtnCtrl">
+<area shape="rect" id="node1" title="Интерфейс контроллеров для кнопок рисования фигур" alt="" coords="6,80,117,107"/>
+<area shape="rect" id="node2" href="$classIBtnController.html" title="Интерфейс контроллеров для кнопок" alt="" coords="5,5,117,32"/>
+</map>

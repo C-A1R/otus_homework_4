@@ -1,0 +1,5 @@
+<map id="TriangleBtnCtrl" name="TriangleBtnCtrl">
+<area shape="rect" id="node1" title="Рисовать треугольник" alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node2" href="$classIShapeBtnCtrl.html" title="Интерфейс контроллеров для кнопок рисования фигур" alt="" coords="9,80,120,107"/>
+<area shape="rect" id="node3" href="$classIBtnController.html" title="Интерфейс контроллеров для кнопок" alt="" coords="9,5,121,32"/>
+</map>

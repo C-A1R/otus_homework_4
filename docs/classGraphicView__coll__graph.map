@@ -1,0 +1,4 @@
+<map id="GraphicView" name="GraphicView">
+<area shape="rect" id="node1" title="Виджет для рисования" alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node2" href="$classIEditorView.html" title="Интерфейс виджета для рисования" alt="" coords="9,5,105,32"/>
+</map>

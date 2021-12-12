@@ -1,0 +1,4 @@
+<map id="DocExportBtnCtrl" name="DocExportBtnCtrl">
+<area shape="rect" id="node1" title="Экспорт документа" alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node2" href="$classIBtnController.html" title="Интерфейс контроллеров для кнопок" alt="" coords="17,5,129,32"/>
+</map>

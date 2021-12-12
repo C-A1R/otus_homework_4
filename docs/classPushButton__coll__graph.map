@@ -1,0 +1,4 @@
+<map id="PushButton" name="PushButton">
+<area shape="rect" id="node1" title="Нажимательнальная кнопка" alt="" coords="5,80,101,107"/>
+<area shape="rect" id="node2" href="$classIButton.html" title="Кнопка предполагаемой панели интрументов" alt="" coords="19,5,88,32"/>
+</map>

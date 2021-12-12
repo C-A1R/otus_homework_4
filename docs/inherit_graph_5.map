@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIShape.html" title="Интерфейс фигур" alt="" coords="5,56,72,83"/>
+<area shape="rect" id="node2" href="$classLine.html" title="Прямая линия" alt="" coords="132,5,181,32"/>
+<area shape="rect" id="node3" href="$classPoint.html" title="Точка" alt="" coords="129,56,184,83"/>
+<area shape="rect" id="node4" href="$classTriangle.html" title="Треугольник" alt="" coords="120,107,193,133"/>
+</map>

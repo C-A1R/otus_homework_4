@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIButton.html" title="Кнопка предполагаемой панели интрументов" alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node2" href="$classPushButton.html" title="Нажимательнальная кнопка" alt="" coords="123,5,219,32"/>
+<area shape="rect" id="node3" href="$classToggleButton.html" title="Залипающая кнопка" alt="" coords="267,5,373,32"/>
+</map>

@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: editor built using CMake
+Maintainer: example@example.com
+Package: editor
+Priority: optional
+Section: devel
+Version: 0.0.2
+Installed-Size: 384
+

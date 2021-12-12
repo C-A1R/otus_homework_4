@@ -1,0 +1,5 @@
+<map id="LineBtnCtrl" name="LineBtnCtrl">
+<area shape="rect" id="node1" title="Рисовать линию" alt="" coords="14,155,109,181"/>
+<area shape="rect" id="node2" href="$classIShapeBtnCtrl.html" title="Интерфейс контроллеров для кнопок рисования фигур" alt="" coords="6,80,117,107"/>
+<area shape="rect" id="node3" href="$classIBtnController.html" title="Интерфейс контроллеров для кнопок" alt="" coords="5,5,117,32"/>
+</map>

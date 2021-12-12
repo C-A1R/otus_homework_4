@@ -1,0 +1,4 @@
+<map id="Point" name="Point">
+<area shape="rect" id="node1" title="Точка" alt="" coords="11,80,66,107"/>
+<area shape="rect" id="node2" href="$classIShape.html" title="Интерфейс фигур" alt="" coords="5,5,72,32"/>
+</map>

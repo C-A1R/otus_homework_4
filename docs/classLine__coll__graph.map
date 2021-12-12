@@ -1,0 +1,4 @@
+<map id="Line" name="Line">
+<area shape="rect" id="node1" title="Прямая линия" alt="" coords="14,80,63,107"/>
+<area shape="rect" id="node2" href="$classIShape.html" title="Интерфейс фигур" alt="" coords="5,5,72,32"/>
+</map>

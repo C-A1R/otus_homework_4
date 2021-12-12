@@ -1,0 +1,10 @@
+<map id="IBtnController" name="IBtnController">
+<area shape="rect" id="node1" title="Интерфейс контроллеров для кнопок" alt="" coords="254,5,366,32"/>
+<area shape="rect" id="node2" href="$classDocCreateBtnCtrl.html" title="Создать документ" alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="$classDocExportBtnCtrl.html" title="Экспорт документа" alt="" coords="164,80,299,107"/>
+<area shape="rect" id="node4" href="$classDocImportBtnCtrl.html" title="Импорт документа" alt="" coords="323,80,457,107"/>
+<area shape="rect" id="node5" href="$classIShapeBtnCtrl.html" title="Интерфейс контроллеров для кнопок рисования фигур" alt="" coords="481,80,592,107"/>
+<area shape="rect" id="node6" href="$classLineBtnCtrl.html" title="Рисовать линию" alt="" coords="368,155,463,181"/>
+<area shape="rect" id="node7" href="$classPointBtnCtrl.html" title="Рисовать точку" alt="" coords="487,155,587,181"/>
+<area shape="rect" id="node8" href="$classTriangleBtnCtrl.html" title="Рисовать треугольник" alt="" coords="611,155,729,181"/>
+</map>

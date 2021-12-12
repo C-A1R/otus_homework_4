@@ -1,0 +1,7 @@
+<map id="IShapeBtnCtrl" name="IShapeBtnCtrl">
+<area shape="rect" id="node1" title="Интерфейс контроллеров для кнопок рисования фигур" alt="" coords="119,80,229,107"/>
+<area shape="rect" id="node3" href="$classLineBtnCtrl.html" title="Рисовать линию" alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node4" href="$classPointBtnCtrl.html" title="Рисовать точку" alt="" coords="124,155,224,181"/>
+<area shape="rect" id="node5" href="$classTriangleBtnCtrl.html" title="Рисовать треугольник" alt="" coords="248,155,367,181"/>
+<area shape="rect" id="node2" href="$classIBtnController.html" title="Интерфейс контроллеров для кнопок" alt="" coords="118,5,230,32"/>
+</map>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/editor_cli.dir/src/main.cpp.o CMakeFiles/editor_cli.dir/src/IEditor/IEditorView.cpp.o CMakeFiles/editor_cli.dir/src/IEditor/IEditorModel.cpp.o CMakeFiles/editor_cli.dir/src/IEditor/IEditorController.cpp.o -o editor_cli  libeditor_lib.a 
